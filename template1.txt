@@ -1,0 +1,5 @@
+{
+  "to": "template@gmail.com",
+  "subject": "dasdas",
+  "message": "dasdas"
+}
